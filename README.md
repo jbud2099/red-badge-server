@@ -1,1 +1,4 @@
-# red-badge-server
+For the server side I had to use some of the same code that we used throughout our badges that we've learned through these past 12 weeks, the only difference is that there is 3 controllers instead of 2 from blue badge which was really chanllenging for me to build out of. The user and review controller was very similar to what we did in blue badge. The favorite controller was the one that I had to figure out for my third table. I still couldn't figure out about the isAdmin, but I do have an endpoint that I would still need to work on for the isAdmin part. Most of the controllers for delete, put, post, get does work on postman by running the server.
+
+I don't know if I did all of the requirements of this assingment for the server side, but I guess I could say this project will still be a work in progress in my heart of coding in the future. I did enjoy building the server side which was the most interesting part about this project. I enjoyed it very well, and thank you guys for helping with solving my problems with errors.
+Thank You!
